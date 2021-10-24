@@ -1,4 +1,3 @@
-#   STUDENT MANAGEMENT SYSTEM (MICRO PROJECT) :
 import sys
 
 
@@ -263,7 +262,7 @@ if __name__ == '__main__':
     #   LOGIC OR BACKEND OF WORKING 'STUDENT MANAGEMENT SYSTEM'
     print("\n")
 
-    print("\t\t\t\t ' ********** WELCOME TO STUDENT MANAGEMENT SYSTEM ********** ' \n")
+    print("\t\t\t\t ' ********** WELCOME TO STUDENT ADMINISTRATION SYSTEM ********** ' \n")
     run = True
 
     while run:
